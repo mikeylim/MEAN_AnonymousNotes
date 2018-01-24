@@ -1,0 +1,61 @@
+*{
+    font-family: Courier;
+}
+.content{
+    border: 2px solid blue;
+    width: 1000px;
+    margin: 0 auto;
+    height: auto;
+    background-color: gainsboro;
+}
+.header{
+    font-size: 45px;
+    margin: 25px 0px;
+}
+.addNote{
+    border: 2px solid black;
+    height: 100px;
+    margin: 20px;
+    width: 950px;
+    background-color: white;
+    padding: 25px;
+}
+label{
+    font-size: 20px;
+}
+#content{
+    width: 730px;
+    height: 50px;    
+    overflow-y: scroll;
+}
+#button{
+    height: 50px;
+    background-color: green;
+    color: white;
+
+}
+.outer{
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+    width: 950px;
+    height: 700px;
+    background-color: white;
+    overflow-y: scroll;
+}
+.main-content{
+    border: 2px solid black;
+    margin: 20px 0px;
+    width: 900px;
+    height: 150px;
+    padding: 20px;
+    overflow-y: scroll;
+}
+h4{
+    font-weight: bolder;
+}
+p{
+    font-weight: bolder;
+    text-align: right;
+    margin-right: 25px;
+}
